@@ -1,5 +1,5 @@
 # API-Lista-de-Compras-com-Node.js-Moongose-MongoDB-
- API para uma lista de supermercado
+ API | CRUD para uma lista de supermercado
  
  #
  Essa é uma API para uma lista de mercado, onde contém os itens de desejo de compra e os valores. 
